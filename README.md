@@ -4,7 +4,7 @@ BattleshipGame is a clone of the strategy guessing game under the same name. It 
 
 ## Background Information
 
-This game was created through the Eclipse IDE in Java. The exact version of Eclipse used is unknown, therefore, there may be troubles with running the game through newer versions.
+This game was created through the Eclipse IDE in Java, in version 2020-03. Therefore, there may be troubles with running the game through newer versions.
 
 ## Authors
 
