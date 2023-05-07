@@ -6,6 +6,6 @@ BattleshipGame is a clone of the strategy guessing game under the same name. It 
 
 This game was created through the Eclipse IDE in Java, in version 2020-03. Therefore, there may be troubles with running the game through newer versions.
 
-## Authors
-
-- [Eric Zhou] (https://github.com/3r1cZ)
+## Things Learned
+* Creating a graphical user interface with Java Swing
+* Working with multiple classes in Java 
