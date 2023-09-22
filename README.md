@@ -1,7 +1,7 @@
 # BattleshipGame
 
 BattleshipGame is a clone of the strategy guessing game under the same name. It is a turn-based game with a player facing against an AI.
-<br>
+<br><br>
 This game was developed as a final project for the course ICS4U.
 
 # Contents
