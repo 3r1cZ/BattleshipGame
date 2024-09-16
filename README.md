@@ -13,10 +13,6 @@ This game was developed as a final project for the course ICS4U.
 
 This game was created through the Eclipse IDE with Java, in version 2020-03. Therefore, there may be issues with running the game through newer versions.
 
-## Things Learned
-* Creating a graphical user interface with Java Swing and AWT
-* Working with multiple classes in Java 
-
 ## Preview
 The following is an example of the beginning state of the game after the placement of ships on the player's side:
 <img src='howToPlay.png'>
