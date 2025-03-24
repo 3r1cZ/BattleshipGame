@@ -6,7 +6,6 @@ This game was developed as a final project for the course ICS4U.
 
 # Contents
 * [Running The Game](#running-the-game)
-* [Things Learned](#things-learned)
 * [Preview](#preview)
 
 ## Running The Game
